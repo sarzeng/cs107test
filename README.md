@@ -1,8 +1,5 @@
-[![Build Status](https://travis-ci.com/github/sarzeng/cs107test)](https://travis-ci.com/github/sarzeng/cs107test)
+[![Build Status](https://travis-ci.com/sarzeng/cs107test.svg?branch=main)](https://travis-ci.com/sarzeng/cs107test)
 
-[![Coverage Status](https://codecov.io/gh/sarzeng/cs107test)](https://codecov.io/gh/sarzeng/cs107test)
-
-# cs107test
-CS107 HW 4 Problem 5
+[![Coverage Status]([https://codecov.io/gh/sarzeng/cs107test/branch/main/graph/badge.svg?token=oB8b0qjxLf)](undefined)
 
 
